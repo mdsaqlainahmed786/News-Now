@@ -1,0 +1,38 @@
+.disclaimer{
+  background-color: #28282B;
+  color:white;
+  padding:20px 20px;
+}
+.partners{
+  width: 100%;
+  margin-top: -30px;
+  background-color:#4C516D;
+  color:white;
+  padding-bottom: 60px;
+}
+.title{
+  text-align: center;
+  color: white;
+}
+.list{
+  margin-left:80px;
+}
+.leftdiv{
+  width: 50%;
+  float: left;
+  height:100px;
+  margin-left:30px;
+}
+.rightdiv{
+  margin-left:40%;
+  height:100px;
+  margin-top:39px;
+}
+.endup{
+  background-color: #28282B;
+  color:white;
+  text-align: center;
+  margin-top:-10px;
+ padding:10px 10px;
+ margin-bottom: 0px;
+}

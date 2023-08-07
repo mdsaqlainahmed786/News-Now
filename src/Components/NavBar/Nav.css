@@ -1,0 +1,37 @@
+.navitems{
+   margin-left: 15px;
+  /* margin-top:-37px;*/
+}
+.navitems1{
+  margin-top:-37px;
+  margin-left:65px;
+  
+}
+.navitems2{
+  margin-top:-38px;
+  margin-left:120px;
+}
+.navitems3{
+  margin-top:-38px;
+  margin-left:190px;
+}
+.navitems4{
+  margin-top:-38px;
+  margin-left:255px;
+}
+.navitems5{
+  margin-top:-37px;
+  margin-left:310px;
+}
+.Nav{
+  background-color: #28282B;
+  color:black;
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+  padding:2px;
+ position: sticky;
+ top:0px;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
