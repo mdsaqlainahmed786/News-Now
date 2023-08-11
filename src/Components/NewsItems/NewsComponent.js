@@ -62,7 +62,7 @@ class NewsComp extends Component {
           next={this.fetchData}
           hasMore={articles.length !== this.state.total}
         >
-          {articles.length === 0 ? (
+          {articles.length === 0 && errorMsg===""?(
             <Spinner />
           ) : (
               articles.map((item) => (
